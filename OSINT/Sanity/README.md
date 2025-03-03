@@ -17,7 +17,7 @@ Flag format: `TechnexCTF{your_flag_here};`
 
 I went to their discord channel and on searching a bit I found the flag in the rules channel.
 
-![I am insane](images/sanity)
+![I am insane](images/sanity.png)
 
 ---
 ## Flag
