@@ -15,12 +15,13 @@ Flag format: `TechnexCTF{your_flag_here};`
 ----
 ## Writeup
 
+I went to their discord channel and on searching a bit I found the flag in the rules channel.
 
-
+![I am insane](images/sanity)
 
 ---
 ## Flag
 
 ```
-KashiCTF{59.9399_30.3149}
+TechnexCTF{54n17y_p4553d}
 ```                 
